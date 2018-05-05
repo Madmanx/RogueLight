@@ -1,0 +1,7 @@
+ 0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,0  ,
+/0  ,0  ,0  ,BD ,GD ,GTD,GBD,GTD,GBD,GB ,
+/BD ,GD ,GD ,GHB,0  ,0  ,BH ,0  ,BH ,BH ,
+/BH ,0  ,0  ,BH ,0  ,0  ,HDB,GD ,GH ,BTH,
+/BTH,0  ,0  ,BH ,0  ,0  ,BH ,0  ,0  ,BH ,
+/D  ,0  ,0  ,HDB,GTD,GTD,GHD,DR ,0  ,E  ,
+/0  ,0  ,0  ,HR ,0  ,0  ,0  ,0  ,0  ,0  ,
